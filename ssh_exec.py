@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+'''
+Excute commands in the remote machine and send file to it
+'''
 import threading
 import sys
 import os
