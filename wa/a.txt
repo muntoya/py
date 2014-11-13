@@ -1,4 +1,0 @@
-#!/usr/bin/zsh
-
-echo "wa"
-print "hei"
